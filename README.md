@@ -13,9 +13,9 @@
 
   <br/><br/>
 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro0augusto0&show_icons=true&theme=transparent&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro0augusto0&layout=compact&hide_border=true"/>
-</div>
+  <div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro0augusto0&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro0augusto0&layout=compact&hide_border=true&theme=dark&title_color=58A6FF&text_color=FFFFFF"/>
 
 ## 🛠️ Tecnologias que uso no meu dia
 
