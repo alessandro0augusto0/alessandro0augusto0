@@ -10,7 +10,6 @@
   <br/>
   
   [![LinkedIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/alessandroaugusto-dev/)
-  [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/alessandro0augusto0)
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alessandroaugusto0/)
   [![YTMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/browse/VLPLpIf5bFktZoVSl1a0ILWEzdMpdjm_cQcb)
 
@@ -69,16 +68,3 @@
 [![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 [![Currículo Lattes](https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://lattes.cnpq.br/1977061332240748)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BB-2ecc71?style=for-the-badge)](https://www.linkedin.com/in/alessandroaugusto-dev/)
-
-  ## 🤝 Aberto a Colaborações
-  [![Projetos Inovadores](https://img.shields.io/badge/💡_Projetos_Inovadores-6e5494?style=for-the-badge)](mailto:seu@email.com)
-  [![Code Review](https://img.shields.io/badge/🔍_Code_Review-ffac45?style=for-the-badge)](...)
-
-  
-  [![Let's Connect](https://img.shields.io/badge/🤝_Let's_Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/alessandroaugusto-dev)
-
-  ## 💡 Interesses Profissionais
-
-- Desenvolvimento de soluções escaláveis em **Next.js**  
-- Arquitetura de sistemas com **Java Spring**  
-- Projetos open-source de automação com **Python**  
