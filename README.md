@@ -5,7 +5,7 @@
   
   > **Engenheiro de Computação em Formação** | **Trainee em Projetos** na [EJ Turing](https://instagram.com/ej_turing)  
   > Desenvolvendo soluções com **Next.js e React Native** para clientes reais  
-  > *"Transformando café em código desde 2022 ☕→💻 | Apaixonado por eficiência e UX"*
+  > *"Transformando café em código desde 2022 ☕→💻 | Commit a day keeps the bugs away! 🐛💻"*
   
   <br/>
   
@@ -68,3 +68,31 @@
 [![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
 [![Currículo Lattes](https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://lattes.cnpq.br/1977061332240748)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BB-2ecc71?style=for-the-badge)](https://www.linkedin.com/in/alessandroaugusto-dev/)
+
+
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
+## 🛠️ Tech Stack (Categorizado)
+
+### 👨‍💻 IDEs & Ferramentas de Desenvolvimento
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,idea,eclipse,phpstorm,pycharm,git,github,figma,pr,docker" />
+  </a>
+</p>
+
+### 🌐 Linguagens & Frameworks Frontend
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" />
+  </a>
+</p>
+
+### ⚙️ Backend & Outras Linguagens
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nodejs,py,php,java,spring,mysql" />
+  </a>
+</p>
