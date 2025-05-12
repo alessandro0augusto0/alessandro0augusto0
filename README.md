@@ -143,6 +143,6 @@
 </div>
 
 ## 🌐 Portfólio & Currículo
-[![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
+[![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alessandroaugusto.vercel.app)
 [![Currículo Lattes](https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://lattes.cnpq.br/1977061332240748)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BB-2ecc71?style=for-the-badge)](https://www.linkedin.com/in/alessandroaugusto-dev/)
