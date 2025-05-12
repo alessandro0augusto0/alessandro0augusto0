@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+</p>
+
 # Hello, World!! 👨‍💻
 
 <div align="center">
@@ -13,7 +17,7 @@
   [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/alessandroaugusto0/)
   [![YTMusic](https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white)](https://music.youtube.com/browse/VLPLpIf5bFktZoVSl1a0ILWEzdMpdjm_cQcb)
 
-  <br/><br/>
+  <br/>
 
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=alessandro0augusto0&show_icons=true&theme=dark&hide_border=true&title_color=58A6FF&icon_color=58A6FF&text_color=FFFFFF"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=alessandro0augusto0&layout=compact&hide_border=true&theme=dark&title_color=58A6FF&text_color=FFFFFF"/>
@@ -54,26 +58,6 @@
 </div>
 </details>
 
-## 🔥 Projetos Destacados
-
-[![Dinâmica EJ Turing](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=Dinamica-EJ-Turing&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/Dinamica-EJ-Turing)  
-**Stack**: Next.js, Tailwind, Node.js  
-**Destaque**: Plataforma de processos seletivos que reduziu o tempo de triagem em 40%
-
-[![BiblioLink](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=Programacao-Web-ll&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/Programacao-Web-ll/tree/main/bibliolink)  
-**Stack**: React, Firebase, Material UI  
-**Destaque**: PWA para bibliotecas com sincronização offline
-
-## 🌐 Portfólio & Currículo
-[![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
-[![Currículo Lattes](https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://lattes.cnpq.br/1977061332240748)
-[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BB-2ecc71?style=for-the-badge)](https://www.linkedin.com/in/alessandroaugusto-dev/)
-
-
-<p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
-</p>
-
 ## 🛠️ Tech Stack (Categorizado)
 
 ### 👨‍💻 IDEs & Ferramentas de Desenvolvimento
@@ -96,3 +80,69 @@
     <img src="https://skillicons.dev/icons?i=nodejs,py,php,java,spring,mysql" />
   </a>
 </p>
+
+## 🔥 Projetos Destacados
+
+[![Dinâmica EJ Turing](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=Dinamica-EJ-Turing&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/Dinamica-EJ-Turing)  
+**Stack**: Next.js, Tailwind, Node.js  
+**Destaque**: Plataforma de processos seletivos que reduziu o tempo de triagem em 40%
+
+[![BiblioLink](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=Programacao-Web-ll&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/Programacao-Web-ll/tree/main/bibliolink)  
+**Stack**: React, Firebase, Material UI  
+**Destaque**: PWA para bibliotecas com sincronização offline
+
+## 🌦️ Projetos de Clima em Tempo Real
+
+### ⚡ Versão Simplificada (HTML puro)
+[![Weather HTML](https://img.shields.io/badge/🌤️_LIVE_DEMO-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://clima-com-open-weather-map-api.vercel.app/)  
+**Stack**:  
+- HTML5 semântico  
+- CSS3 puro (Flexbox/Grid)  
+- JavaScript ES6+  
+- OpenWeatherMap API  
+
+**Diferencial**:  
+✔️ Carregamento ultra-rápido (<1s)  
+✔️ Design responsivo mobile-first  
+✔️ Integração direta com API REST  
+
+---
+
+### 🚀 Versão Avançada (Vite + TS)
+[![Weather Vite](https://img.shields.io/badge/🌀_LIVE_DEMO-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://clima-com-weather-api.vercel.app/)  
+**Stack**:  
+- Vite (build tool)  
+- TypeScript  
+- WeatherAPI.com  
+- CSS Modules  
+
+**Diferencial**:  
+✔️ Tipagem estática com TS  
+✔️ Hot Module Replacement  
+✔️ Cache inteligente de requests  
+✔️ Design system escalável  
+
+<details>
+<summary>📊 Comparação Técnica</summary>
+
+| Feature               | HTML Version       | Vite Version        |
+|-----------------------|--------------------|---------------------|
+| TTI (Time to Interactive) | 0.8s           | 1.2s               |
+| Bundle Size           | 12KB              | 45KB (gzipped)     |
+| API Calls             | 1/sec             | 3/sec (cache)      |
+| Lighthouse Score      | 98                | 94                 |
+</details>
+
+<div align="center">
+  <a href="https://clima-com-open-weather-map-api.vercel.app/">
+    <img width="400" src="https://img.shields.io/badge/🌍_LIVE!_OPENWEATHER-FFA500?style=for-the-badge&logo=openweathermap&logoColor=white&labelColor=1E1E1E"/>
+  </a>
+  <a href="https://clima-com-weather-api.vercel.app/">
+    <img width="400" src="https://img.shields.io/badge/⚡_LIVE!_WEATHERAPI-9146FF?style=for-the-badge&logo=visualstudiocode&logoColor=white&labelColor=1E1E1E"/>
+  </a>
+</div>
+
+## 🌐 Portfólio & Currículo
+[![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://seuportfolio.com)
+[![Currículo Lattes](https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://lattes.cnpq.br/1977061332240748)
+[![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BB-2ecc71?style=for-the-badge)](https://www.linkedin.com/in/alessandroaugusto-dev/)
