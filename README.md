@@ -2,53 +2,50 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-<div align="center" style="background: linear-gradient(#1b0c02, #3c1d0f); padding: 20px; border: 3px solid #B87333; border-radius: 12px; box-shadow: 0 0 20px #5e2d0b; font-family: 'Cinzel', serif;">
-  
-  <h2 style="color: #FFD700; text-shadow: 1px 1px 5px #000;">🏰 Kingdom of Code 🏰</h2>
+<h1 align="center">⚔️ Bem-vindo aos Salões de Código de Alessandro ⚔️</h1>
+<p align="center">
+  <em>"No Reino das Lógicas e Runas Digitais, ele escreve sua lenda em linhas de código eterno."</em>
+</p>
+<p align="center">
+  <img src="https://img.shields.io/badge/REINO-Ravenguard-%23000000?style=for-the-badge&logo=github&logoColor=white">
+  <img src="https://img.shields.io/badge/TÍTULO-Cavaleiro_do_Código-%237a1f1f?style=for-the-badge">
+  <img src="https://img.shields.io/badge/ARMY-Forged_in_Java-%236666ff?style=for-the-badge">
+</p>
 
-  <!-- KINGDOM_OF_CODE -->
-  <a href="https://github.com/alessandro0augusto0/Portfolio">
-    <img src="https://img.shields.io/badge/🧭_KINGDOM_OF_CODE-%23B87333?style=for-the-badge&labelColor=300000&logo=open-access&logoColor=white" />
-  </a>
+---
 
-  <br /><br />
+### 🏆 Troféus do Cavaleiro
 
-  <h3 style="color: #E5C07B;">🍻 Taverna do Código</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=onedark&column=3&no-frame=true&title=Stars,Commits,PullRequest" />
-  </a>
+[![Troféus de GitHub](https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=gruvbox&title=Stars,Commits,Repositories,Followers&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <br /><br />
+[![Troféus de Issues](https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=gruvbox&title=Issues,PullRequest&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <!-- DRAGON_SLAYER -->
-  <a href="https://github.com/alessandro0augusto0/Caixeiro-Viajante">
-    <img src="https://img.shields.io/badge/🐉_DRAGON_SLAYER_-D22B2B?style=for-the-badge&labelColor=300000&logo=ubisoft&logoColor=white" />
-  </a>
+[![Troféus de Contribuição](https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=gruvbox&title=Contributed,Discussions,Reviews&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <!-- KNIGHT_OF_THE_REPOSITORY -->
-  <a href="https://github.com/alessandro0augusto0/Clima-com-WeatherAPI">
-    <img src="https://img.shields.io/badge/🛡️_KNIGHT_OF_THE_REPOSITORY_-8B4513?style=for-the-badge&labelColor=3E1F00&logo=github&logoColor=white" />
-  </a>
+[![Troféus de Organizações](https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=gruvbox&title=Organization,Repositories&margin-w=15&margin-h=15&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
 
-  <!-- BURNING_DRAGON_SOUL -->
-  <a href="https://github.com/alessandro0augusto0/Cache-Simulator">
-    <img src="https://img.shields.io/badge/🔥_BURNING_DRAGON_SOUL_-FF0000?style=for-the-badge&labelColor=4B0000&logo=firefox&logoColor=white" />
-  </a>
+---
 
-  <br /><br />
-  
-  <h3 style="color: #FFD700;">📜 Deeds of Honor</h3>
-  <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=gruvbox&row=1&column=4&no-bg=true" />
-  
-  <br /><br />
-  
-  <h3 style="color: #FFD700;">🏆 Dragon Slayer Achievements</h3>
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=chalk&rank=SECRET,SSS,SS&margin-w=15" />
-  </a>
+### 📜 Títulos Concedidos pela Ordem dos Desenvolvedores
 
-</div>
-<br>
+🛡️ `Cavaleiro do Repositório Eterno`  
+⚔️ `Matador de Bugs Ancestrais`  
+🔮 `Mestre do Algoritmo Sagrado`  
+🏰 `Guardião dos Commits Perdidos`  
+📡 `Senhor dos Sinais Binários`  
+👑 `Arquimago da Interface Sombria`  
+🔥 `⚔️ Matador de Bugs Ancestrais`
+
+---
+
+### 📫 Entre no Reino:
+
+![image](https://github.com/user-attachments/assets/c20687ed-fbf1-49e9-bfb6-664c29d93126)
+
+- 🔗 [Portfólio (KINGDOM_OF_CODE)](https://github.com/alessandro0augusto0/Portfolio)
+- 🛡️ [Repositório de Batalha (KNIGHT_OF_THE_REPOSITORY)](https://github.com/alessandro0augusto0/Clima-com-WeatherAPI)
+- 🐉 [Desafio do Dragão (DRAGON_SLAYER)](https://github.com/alessandro0augusto0/Caixeiro-Viajante)
+- 🔥 [Fogo de Prometeu (BURNING_DRAGON_SOUL)](https://github.com/alessandro0augusto0/Cache-Simulator)
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5f0794a6-caa5-434d-9a5a-460079b9549c" alt="Alessandro's Cartoon" width="200" style="border-radius: 50%; border: 3px solid #2d2d2d; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
@@ -191,3 +188,8 @@
 [![Portfólio](https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://alessandroaugusto.vercel.app)
 [![Currículo Lattes](https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge&logo=google-drive&logoColor=white)](https://lattes.cnpq.br/1977061332240748)
 [![Open to Work](https://img.shields.io/badge/Open%20to%20Work-%F0%9F%92%BB-2ecc71?style=for-the-badge)](https://www.linkedin.com/in/alessandroaugusto-dev/)
+
+![image](https://github.com/user-attachments/assets/8839d0a9-2983-47ba-8e96-96a40024b384)
+
+![ChatGPT Image 29 de abr  de 2025, 19_13_54](https://github.com/user-attachments/assets/dc8852f5-3a31-4ce1-8e84-f7dcc5e213e1)
+
