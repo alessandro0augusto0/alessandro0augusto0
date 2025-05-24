@@ -34,7 +34,6 @@
 🏰 `Guardião dos Commits Perdidos`  
 📡 `Senhor dos Sinais Binários`  
 👑 `Arquimago da Interface Sombria`  
-🔥 `⚔️ Matador de Bugs Ancestrais`
 
 ---
 
