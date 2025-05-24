@@ -2,8 +2,53 @@
   <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
 </p>
 
-# Hello, World!! 👨‍💻
+<div align="center" style="background: linear-gradient(#1b0c02, #3c1d0f); padding: 20px; border: 3px solid #B87333; border-radius: 12px; box-shadow: 0 0 20px #5e2d0b; font-family: 'Cinzel', serif;">
+  
+  <h2 style="color: #FFD700; text-shadow: 1px 1px 5px #000;">🏰 Kingdom of Code 🏰</h2>
 
+  <!-- KINGDOM_OF_CODE -->
+  <a href="https://github.com/alessandro0augusto0/Portfolio">
+    <img src="https://img.shields.io/badge/🧭_KINGDOM_OF_CODE-%23B87333?style=for-the-badge&labelColor=300000&logo=open-access&logoColor=white" />
+  </a>
+
+  <br /><br />
+
+  <h3 style="color: #E5C07B;">🍻 Taverna do Código</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=onedark&column=3&no-frame=true&title=Stars,Commits,PullRequest" />
+  </a>
+
+  <br /><br />
+
+  <!-- DRAGON_SLAYER -->
+  <a href="https://github.com/alessandro0augusto0/Caixeiro-Viajante">
+    <img src="https://img.shields.io/badge/🐉_DRAGON_SLAYER_-D22B2B?style=for-the-badge&labelColor=300000&logo=ubisoft&logoColor=white" />
+  </a>
+
+  <!-- KNIGHT_OF_THE_REPOSITORY -->
+  <a href="https://github.com/alessandro0augusto0/Clima-com-WeatherAPI">
+    <img src="https://img.shields.io/badge/🛡️_KNIGHT_OF_THE_REPOSITORY_-8B4513?style=for-the-badge&labelColor=3E1F00&logo=github&logoColor=white" />
+  </a>
+
+  <!-- BURNING_DRAGON_SOUL -->
+  <a href="https://github.com/alessandro0augusto0/Cache-Simulator">
+    <img src="https://img.shields.io/badge/🔥_BURNING_DRAGON_SOUL_-FF0000?style=for-the-badge&labelColor=4B0000&logo=firefox&logoColor=white" />
+  </a>
+
+  <br /><br />
+  
+  <h3 style="color: #FFD700;">📜 Deeds of Honor</h3>
+  <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=gruvbox&row=1&column=4&no-bg=true" />
+  
+  <br /><br />
+  
+  <h3 style="color: #FFD700;">🏆 Dragon Slayer Achievements</h3>
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&theme=chalk&rank=SECRET,SSS,SS&margin-w=15" />
+  </a>
+
+</div>
+<br>
 <div align="center">
   <img src="https://github.com/user-attachments/assets/5f0794a6-caa5-434d-9a5a-460079b9549c" alt="Alessandro's Cartoon" width="200" style="border-radius: 50%; border: 3px solid #2d2d2d; box-shadow: 0 4px 8px rgba(0,0,0,0.1);"/>
   
