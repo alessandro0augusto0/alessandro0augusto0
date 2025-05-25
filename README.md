@@ -42,7 +42,7 @@
 ![image](https://github.com/user-attachments/assets/c20687ed-fbf1-49e9-bfb6-664c29d93126)
 
 - 🔗 [Portfólio (KINGDOM_OF_CODE)](https://github.com/alessandro0augusto0/Portfolio)
-- 🛡️ [Repositório de Batalha (KNIGHT_OF_THE_REPOSITORY)](https://github.com/alessandro0augusto0/Clima-com-WeatherAPI)
+- 🛡️ [Repositório de Batalha (KNIGHT_OF_THE_REPOSITORY)](https://github.com/alessandro0augusto0/Jantar-dos-filosofos)
 - 🐉 [Desafio do Dragão (DRAGON_SLAYER)](https://github.com/alessandro0augusto0/Caixeiro-Viajante)
 - 🔥 [Fogo de Prometeu (BURNING_DRAGON_SOUL)](https://github.com/alessandro0augusto0/Cache-Simulator)
 <div align="center">
