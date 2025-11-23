@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/alessandro0augusto0/alessandro0augusto0/main/profile-3d-contrib/profile-night-rainbow.svg" alt="3D contribution graph" />
+  <img src="https://cdn.jsdelivr.net/gh/alessandro0augusto0/alessandro0augusto0/profile-3d-contrib/profile-night-rainbow.svg" />
 </p>
 
 <p align="center">
