@@ -1,9 +1,15 @@
 <p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/alessandro0augusto0/alessandro0augusto0/profile-3d-contrib/profile-night-rainbow.svg" />
+  <img 
+    src="https://cdn.jsdelivr.net/gh/alessandro0augusto0/alessandro0augusto0/profile-3d-contrib/profile-night-rainbow.svg" 
+  />
 </p>
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/5f0794a6-caa5-434d-9a5a-460079b9549c" alt="Alessandro's Cartoon" width="180"/>
+  <img 
+    src="https://github.com/user-attachments/assets/5f0794a6-caa5-434d-9a5a-460079b9549c" 
+    alt="Alessandro's Cartoon" 
+    width="180"
+  />
 </p>
 
 <h1 align="center">Alessandro Augusto</h1>
@@ -11,25 +17,29 @@
 <p align="center">
   <strong>Engenheiro de Computação em Formação</strong> · 
   <strong>Trainee em Projetos</strong> na 
-  <a href="https://instagram.com/ej_turing" target="_blank" rel="noopener noreferrer">EJ Turing</a>
+  <a href="https://instagram.com/ej_turing">EJ Turing</a>
 </p>
 
 <p align="center">
-  Desenvolvendo soluções com <strong>Next.js</strong> e <strong>React Native</strong> para clientes reais
+  Desenvolvendo soluções com <strong>Next.js</strong> e 
+  <strong>React Native</strong> para clientes reais
 </p>
 
 <p align="center">
-  <em>"Transformando café em código desde 2022 ☕→💻 | Commit a day keeps the bugs away!"</em>
+  <em>
+    "Transformando café em código desde 2022 ☕→💻 | 
+    Commit a day keeps the bugs away! 🐛💻"
+  </em>
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/alessandroaugusto-dev/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alessandroaugusto-dev/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.instagram.com/alessandroaugusto0/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.instagram.com/alessandroaugusto0/" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
-  <a href="https://music.youtube.com/browse/VLPLpIf5bFktZoVSl1a0ILWEzdMpdjm_cQcb" target="_blank" rel="noopener noreferrer">
+  <a href="https://music.youtube.com/browse/VLPLpIf5bFktZoVSl1a0ILWEzdMpdjm_cQcb" target="_blank">
     <img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white"/>
   </a>
 </p>
@@ -46,7 +56,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/alessandro0augusto0" target="_blank" rel="noopener noreferrer">
+  <a href="https://github.com/alessandro0augusto0">
     <img src="https://github-profile-trophy.vercel.app/?username=alessandro0augusto0&no-bg=true" />
   </a>
 </p>
@@ -71,7 +81,8 @@
 
 ### 🏢 Tecnologias na EJ Turing
 <details>
-  <summary><strong>📱 Stack de Projetos na Empresa Júnior</strong></summary>
+  <summary>📱 Stack de Projetos na Empresa Júnior</summary>
+
   <p align="center">
     <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white"/>
     <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -84,7 +95,7 @@
 ## 🧰 Tech Stack Detalhado
 
 | Categoria | Ferramentas |
-| --- | --- |
+|---------|-------------|
 | **IDEs & Ferramentas** | <img src="https://skillicons.dev/icons?i=vscode,idea,phpstorm,pycharm,clion,git,github,figma,docker" /> |
 | **Frontend** | <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,tailwind" /> |
 | **Backend & Linguagens** | <img src="https://skillicons.dev/icons?i=nodejs,py,php,java,spring,mysql" /> |
@@ -94,33 +105,29 @@
 ## 🔥 Projetos Destacados
 
 | Projeto | Resumo |
-| --- | --- |
-| [![Fortnite Cosmetics Store](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=fortnite-cosmetics-store&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/fortnite-cosmetics-store) | **Next.js + Tailwind** · Catálogo dinâmico com busca, filtros, carrinho e UI inspirada em Fortnite. |
-| [![BiblioLink](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=Programacao-Web-ll&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/Programacao-Web-ll/tree/main/bibliolink) | **React + Firebase** · PWA para bibliotecas com sincronização offline. |
+|-------|--------|
+| [![Fortnite Cosmetics Store](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=fortnite-cosmetics-store&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/fortnite-cosmetics-store) | **Next.js + Tailwind** · Catálogo dinâmico com busca, filtros e carrinho |
+| [![BiblioLink](https://github-readme-stats.vercel.app/api/pin/?username=alessandro0augusto0&repo=Programacao-Web-ll&theme=dark&show_owner=true)](https://github.com/alessandro0augusto0/Programacao-Web-ll/tree/main/bibliolink) | **React + Firebase** · PWA para bibliotecas com offline sync |
 
 ---
 
 ## 🌦️ Projetos de Clima em Tempo Real
 
 ### ⚡ Versão Simplificada (HTML puro)
-<a href="https://clima-com-open-weather-map-api.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🌤️_LIVE_DEMO-FF5722?style=for-the-badge&logo=html5&logoColor=white"/>
-</a>
+[![LIVE DEMO](https://img.shields.io/badge/🌤️_LIVE_DEMO-FF5722?style=for-the-badge&logo=html5&logoColor=white)](https://clima-com-open-weather-map-api.vercel.app/)
 
 ### 🚀 Versão Avançada (Vite + TypeScript)
-<a href="https://clima-com-weather-api.vercel.app/" target="_blank" rel="noopener noreferrer">
-  <img src="https://img.shields.io/badge/🌀_LIVE_DEMO-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
-</a>
+[![LIVE DEMO](https://img.shields.io/badge/🌀_LIVE_DEMO-646CFF?style=for-the-badge&logo=vite&logoColor=white)](https://clima-com-weather-api.vercel.app/)
 
 <details>
-  <summary><strong>📊 Comparação Técnica</strong></summary>
+  <summary>📊 Comparação Técnica</summary>
 
-| Feature | HTML Version | Vite Version |
-| --- | --- | --- |
-| TTI | 0.8s | 1.2s |
-| Bundle Size | 12KB | 45KB |
-| API Calls | 1/sec | 3/sec |
-| Lighthouse | 98 | 94 |
+  | Feature | HTML Version | Vite Version |
+  |-------|--------------|--------------|
+  | TTI | 0.8s | 1.2s |
+  | Bundle Size | 12KB | 45KB |
+  | API Calls | 1/sec | 3/sec |
+  | Lighthouse | 98 | 94 |
 </details>
 
 ---
@@ -128,13 +135,13 @@
 ## 🌐 Portfólio & Currículo
 
 <p align="center">
-  <a href="https://alessandroaugusto.vercel.app" target="_blank" rel="noopener noreferrer">
+  <a href="https://alessandroaugusto.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/🔎_Portfólio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white"/>
   </a>
-  <a href="https://lattes.cnpq.br/1977061332240748" target="_blank" rel="noopener noreferrer">
+  <a href="https://lattes.cnpq.br/1977061332240748" target="_blank">
     <img src="https://img.shields.io/badge/📄_Lattes-4285F4?style=for-the-badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/alessandroaugusto-dev/" target="_blank" rel="noopener noreferrer">
+  <a href="https://www.linkedin.com/in/alessandroaugusto-dev/" target="_blank">
     <img src="https://img.shields.io/badge/Open%20to%20Work-💻-2ecc71?style=for-the-badge"/>
   </a>
 </p>
