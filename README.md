@@ -12,23 +12,29 @@
   />
 </p>
 
-<h1 align="center">Alessandro Augusto</h1>
+<h1 align="center">
+  Alessandro Augusto
+</h1>
 
 <p align="center">
   <strong>· Engenheiro de Computação em Formação ·</strong>
 </p>
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=php,mysql,vscode,phpstorm,github" />
-</p>
+  <img src="https://skillicons.dev/icons?i=github,php,htmx,azure,vscode,phpstorm" /><br>
+  <img src="https://skillicons.dev/icons?i=git,postman,docker,bootstrap" /><br>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/alessandroaugusto-dev/" target="_blank">
+  <a href="https://www.linkedin.com/in/alessandroaugusto-dev/">
     <img src="https://skillicons.dev/icons?i=linkedin" />
   </a>
-  <a href="https://www.instagram.com/alessandroaugusto0/" target="_blank">
+
+  <a href="https://www.instagram.com/alessandroaugusto0/">
     <img src="https://skillicons.dev/icons?i=instagram" />
   </a>
+
+  <br>
+
+  <img src="https://skillicons.dev/icons?i=devto" />
 </p>
 
 <p align="center">
@@ -46,3 +52,4 @@
     alt="GitHub Streak"
   />
 </p>
+
