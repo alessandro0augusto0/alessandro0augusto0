@@ -45,8 +45,8 @@
 </p>
 
 <p align="center">
-  <img 
-    src="https://streak-stats.demolab.com?user=alessandro0augusto0&theme=dark&hide_border=true&locale=pt_BR" 
+  <img
+    src="https://streak-stats.vercel.app?user=alessandro0augusto0&theme=dark&hide_border=true&locale=pt_BR"
     alt="GitHub Streak"
   />
 </p>
